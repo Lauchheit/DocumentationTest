@@ -1,0 +1,12 @@
+// Sidebar Abstände anpassen
+.side-bar {
+    padding-left: 1rem; // Standardwert ist meist 2rem
+    margin-left: 0; // Falls ein margin gesetzt ist
+  }
+  
+  // Oder spezifischer für verschiedene Bildschirmgrößen:
+  @media (min-width: 50rem) {
+    .side-bar {
+      padding-left: 0.5rem;
+    }
+  }
