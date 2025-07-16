@@ -1,19 +1,14 @@
 ---
-layout: default
+layout: page
 title: Installation
 ---
 
 # Installation
 
-Das ist meine erste Jekyll-Seite!
+## Schritt 1
+Hier dein Inhalt...
 
-## Voraussetzungen
-- Git installiert
-- GitHub Account
+## Schritt 2
+Weitere Schritte...
 
-## Schritte
-1. Repository klonen
-2. Dependencies installieren
-3. Projekt starten
-
-Das war's schon!
+[← Zurück zur Startseite](index.html)
