@@ -1,3 +1,8 @@
 title: Meine Dokumentation
-description: Eine Test-Dokumentation
-theme: minima
+description: Eine umfassende Dokumentation
+remote_theme: just-the-docs/just-the-docs
+
+# Grundeinstellungen
+search_enabled: true
+nav_sort: case_insensitive
+nav_fold: true
